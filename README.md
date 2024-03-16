@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 https://www.loom.com/share/f69becf327724da5871bf61e9b6f35fb?sid=fb41b5e0-9c6e-449d-8baf-02b3d5cdc538
 
-GIF created with Kap
+Video created with Loom
 
 ## Notes
 
